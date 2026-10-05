@@ -8,7 +8,7 @@ It holds what re-running the accelerator measurements needs: a flat C bridge ove
 
 ## Build and run
 
-There is no build file. The shim compiles against the accelerator vendor's runtime SDK, and the Python probes run against the device through it.
+There is no build file. The shim is a Windows DLL; it compiles against the accelerator vendor's runtime SDK, and the Python probes run against the device through it.
 
 ## Licence
 
