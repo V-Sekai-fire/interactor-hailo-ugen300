@@ -12,4 +12,4 @@ There is no build file. The shim is a Windows DLL; it compiles against the accel
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
